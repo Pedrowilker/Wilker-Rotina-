@@ -1,0 +1,14 @@
+{
+  "name": "WILKER Rotina Pessoal",
+  "short_name": "WILKER Rotina",
+  "description": "Rotina de segunda a sexta com alarmes, estudos, trabalho e hábitos.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c0e19",
+  "theme_color": "#101322",
+  "icons": [
+    { "src": "./favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
